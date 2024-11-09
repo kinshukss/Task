@@ -36,7 +36,7 @@ To run this application on your local machine, you’ll need:
 Clone the repository and navigate to the project root:
 
 bash
-git clone https://github.com/fliprlab/devops-task
+git clone https://github.com/KDSB/devops-task
 cd devops-task
 
 
